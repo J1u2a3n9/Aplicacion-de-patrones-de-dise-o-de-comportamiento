@@ -1,1 +1,3 @@
-# Aplicacion-de-patrones-de-dise-o-de-comportamiento
+Aplicacion de patrones de diseño de comportamiento
+
+El empredimiento de ventas de mani en forma de botanas McNuts desea poder sacar nuevos sabores de mani por tiempo limitado y ver si podrian funcionar a futuro como un sabor oficial por lo cual requiere que su sistema sea capaz de alertar a los consumidores cuando este tipo de sabor quede fuera de produccion y no se lo pueda comprar por esto mismo se uso el patron de comportamiento del observer para que este alerte a todos los clientes cada vez que un sabor sea descontinuado por el administrador, por otro lado se desea tambien poder tener un acceso direto que englobe todo para ver los recursos del sistema ya sea clientes, manis, administradores mediante una estrategia por esto mismo se uso el notifier en el ClientAccess para que de una manera mas rapida y eficiente se puedan acceder a los datos de distintos recursos
