@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\bin\Debug\netcoreapp3.1\McNutResources.exe
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\bin\Debug\netcoreapp3.1\McNutResources.deps.json
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\bin\Debug\netcoreapp3.1\McNutResources.runtimeconfig.json
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\bin\Debug\netcoreapp3.1\McNutResources.runtimeconfig.dev.json
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\bin\Debug\netcoreapp3.1\McNutResources.dll
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\bin\Debug\netcoreapp3.1\McNutResources.pdb
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\obj\Debug\netcoreapp3.1\McNutResources.csprojAssemblyReference.cache
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\obj\Debug\netcoreapp3.1\McNutResources.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\obj\Debug\netcoreapp3.1\McNutResources.AssemblyInfo.cs
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\obj\Debug\netcoreapp3.1\McNutResources.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\obj\Debug\netcoreapp3.1\McNutResources.dll
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\obj\Debug\netcoreapp3.1\McNutResources.pdb
+D:\UNIVERSIDAD 2021\I-2021\ARQUITECTURA DE SOFTWARE\TAREAS REALIZADAS\McNutResources\McNutResources\obj\Debug\netcoreapp3.1\McNutResources.genruntimeconfig.cache
