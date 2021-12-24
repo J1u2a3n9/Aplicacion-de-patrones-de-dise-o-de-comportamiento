@@ -1,3 +1,14 @@
-Aplicacion de patrones de diseño de comportamiento
+MCNuts APP
+![147183119_491843355551038_4736773095611486819_n](https://user-images.githubusercontent.com/74753713/147300901-64ef7b7b-4203-4427-9ccf-93664c90f4a5.jpg)
 
-El empredimiento de ventas de mani en forma de botanas McNuts desea poder sacar nuevos sabores de mani por tiempo limitado y ver si podrian funcionar a futuro como un sabor oficial por lo cual requiere que su sistema sea capaz de alertar a los consumidores cuando este tipo de sabor quede fuera de produccion y no se lo pueda comprar por esto mismo se uso el patron de comportamiento del observer para que este alerte a todos los clientes cada vez que un sabor sea descontinuado por el administrador, por otro lado se desea tambien poder tener un acceso directo que englobe todo para ver los recursos del sistema ya sea clientes, manis, administradores mediante una estrategia por esto mismo se uso el Inotifier en el ClientAccess como estrategia para que de una manera mas rapida y eficiente se puedan acceder a los datos de distintos recursos
+
+
+
+
+LANGUAGE
+* C#
+
+DESCRIPTION
+The peanut sales company in the form of McNuts snacks wants to be able to release new flavors of peanuts for a limited time and see if they could work in the future as an official flavor so it requires that your system is capable of alerting consumers when this type of flavor is out of production and can not be purchased for this same observer behavioral pattern was used to alert all customers whenever a flavor is discontinued by the administrator, on the other hand it is desired also to be able to have a direct access that includes everything to see the resources of the system already be clients, manis, administrators by means of a strategy for this same one the Inotifier was used in the ClientAccess like strategy so that of a more rapid and efficient way they can accede to the data of different resources.
+
+
